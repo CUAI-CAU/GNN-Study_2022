@@ -6,6 +6,26 @@
 * 이하윤
 * 배병현
 
+## Contents
+|Lecture|Title|Owner|Date|
+|:-:|-|:-:|:-:|
+|1.1|Why Graphs|All|22.03.17|
+|1.2|Applications of Graph ML|All|22.03.17|
+|1.3|Choice of Graph Representation|All|22.03.17|
+|2.1|Traditional Feature-based Methods:Node|All|22.03.17|
+|2.2|Traditional Feature-based Methods:Link|All|22.03.17|
+|2.3|Traditional Feature-based Methods:Graph|All|22.03.17|
+|3.1|Node Embeddings|이하윤|22.03.17|
+|3.2|Random Walk Approaches for Node Embeddings|배병현|22.03.17|
+|3.3|Embedding Entire Graphs|권예진|22.03.17|
+|4.1|PageRank|권예진|22.03.24|
+|4.2|PageRank: How to Solve?|권예진|22.03.24|
+|4.3|Random Walk with Restarts|이하윤|22.03.24|
+|4.4|Matrix Factorization and Node Embeddings|이하윤|22.03.24|
+|5.1|Message passing and Node Classification|이하윤|22.03.24|
+|5.2|Rational and Iterative Classification|배병현|22.03.24|
+|5.3|Collective Classification|배병현|22.03.24|
+
 ## Reference
 ### CS224W: Machine Learning with Graphs  
 [![YouTube](https://cdn-icons.flaticon.com/png/128/3128/premium/3128307.png?token=exp=1647351584~hmac=81229380c2cfbc60ffecd7162e05f80e)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) [![Slide](https://cdn-icons-png.flaticon.com/128/40/40420.png)](http://snap.stanford.edu/class/cs224w-2020/)
