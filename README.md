@@ -9,12 +9,12 @@
 ## Contents
 |Lecture|Title|Owner|Date|
 |:-:|-|:-:|:-:|
-|1.1|Why Graphs|All|22.03.17|
-|1.2|Applications of Graph ML|All|22.03.17|
-|1.3|Choice of Graph Representation|All|22.03.17|
-|2.1|Traditional Feature-based Methods:Node|All|22.03.17|
-|2.2|Traditional Feature-based Methods:Link|All|22.03.17|
-|2.3|Traditional Feature-based Methods:Graph|All|22.03.17|
+|1.1|Why Graphs|Individual|22.03.17|
+|1.2|Applications of Graph ML|Individual|22.03.17|
+|1.3|Choice of Graph Representation|Individual|22.03.17|
+|2.1|Traditional Feature-based Methods:Node|Individual|22.03.17|
+|2.2|Traditional Feature-based Methods:Link|Individual|22.03.17|
+|2.3|Traditional Feature-based Methods:Graph|Individual|22.03.17|
 |3.1|Node Embeddings|이하윤|22.03.17|
 |3.2|Random Walk Approaches for Node Embeddings|배병현|22.03.17|
 |3.3|Embedding Entire Graphs|권예진|22.03.17|
@@ -25,6 +25,12 @@
 |5.1|Message passing and Node Classification|이하윤|22.03.24|
 |5.2|Rational and Iterative Classification|배병현|22.03.24|
 |5.3|Collective Classification|배병현|22.03.24|
+|6.1|Introduction to Graph Neural Networks|Individual|22.03.31|
+|6.2|Basics of Deep Learning|Individual|22.03.31|
+|6.3|Deep Learning for Graphs|권예진|22.03.31|
+|7.1|A general Perspective on GNNs|권예진|22.03.31|
+|7.2|A Single Layer of a GNN|이하윤|22.03.31|
+|7.3|Stacking layers of a GNN|배병현|22.03.31|
 
 ## Reference
 ### CS224W: Machine Learning with Graphs  
